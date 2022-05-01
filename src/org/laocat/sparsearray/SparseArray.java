@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * @author LaoCat
- * @deprecated 稀疏数组
+ * @desc 稀疏数组
  */
 public class SparseArray {
 
